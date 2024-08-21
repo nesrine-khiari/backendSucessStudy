@@ -1,0 +1,312 @@
+@import"../../assets/scss/media-queries.scss";
+@import url("https://fonts.cdnfonts.com/css/white-dream-personal-use-only");
+@import url("https://fonts.cdnfonts.com/css/poppins");
+@import url("https://fonts.cdnfonts.com/css/gotham");
+// @include lt-xxl {}
+
+.mainAboutUs {
+  padding: 8% 5rem 0 5rem;
+  background-color: #f5f5f5 !important;
+  .container{
+    max-width: 1525px!important
+  }
+  @include lt-md {
+    padding: 7rem 1rem 0 1rem;
+  }
+}
+
+h1 {
+  @include lt-md {
+    line-height: 1 !important;
+    margin-bottom: 20px;
+  }
+}
+
+.background_f5f5f5 {
+  background-color: #f5f5f5;
+}
+.container_2 {
+  background-color: #ffffff;
+  /* padding: 4% 0% 3% 0%; */
+  justify-content: center;
+}
+
+.describe_offer {
+  font-family: Gotham;
+  font-size: 20px;
+  font-weight: 500;
+  font-style: italic;
+  line-height: 45px;
+  margin-top: 0.5rem;
+  @include lt-lg{
+    font-size: 18px;
+  }
+}
+.aboutUsSubTitle {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  text-align: justify;
+  margin: 0px 40px;
+  /* or 167% */
+  padding: 0 2rem;
+  @include lt-md {
+    padding: 0 0rem;
+    margin: 0px 20px !important;
+    font-size: 14px !important;
+  }
+}
+
+.title_3 {
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-size: 40px !important;
+  line-height: 53px !important;
+  margin: 2rem 0;
+  /* letter-spacing: 5px; */
+}
+.imageAbouUs {
+  margin-left: -10%;
+  margin-top: 20%;
+}
+.typo_2 {
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-size: 20px !important;
+  line-height: 34px !important;
+}
+.title_5 {
+  font-family: Poppins;
+  font-weight: 700 !important;
+  font-size: 28px !important;
+  line-height: 45px !important;
+  color: #ffb703;
+  text-align: center;
+}
+
+._3row_container {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.aboutUsTitle {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 72px;
+  @include lt-lg{
+
+    font-size: 24px;
+    line-height: 72px!important;
+  }
+}
+
+.description-section {
+  height: 120vh;
+}
+
+.about_us_text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 34px;
+  text-align: justify;
+  @include lt-md {
+    padding: 0 0rem;
+    margin: 0px 20px !important;
+    font-size: 14px !important;
+  }
+}
+
+.histoire_section {
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 50px 0px;
+  @include lt-md {
+    flex-direction: column;
+    display: block;
+  }
+  .container{
+    max-width: 1525px!important
+  }
+  .text_container_55 {
+    width: 30%;
+    @include lt-xl {
+      width: 30%;
+    }
+    @include lt-lg {
+      width: 32%;
+    }
+    @include lt-md {
+      width: 100%;
+    }
+    p {
+      font-size: 18px;
+      line-height: 150%;
+      text-align: left;
+      @include lt-xl {
+        line-height: 1.8;
+        font-size: 20px;
+      }
+      @include lt-lg {
+        line-height: 1.6;
+        font-size: 14px;
+      }
+    }
+    h3 {
+      @include lt-lg {
+        font-size: 24px !important;
+        line-height: 1.2 !important;
+      }
+      @include lt-md {
+        font-size: 24px !important;
+        padding: 0px 0px 0px 15px;
+      }
+    }
+  }
+
+  .img_container_55 {
+    width: 33%;
+    padding: 15% 0px 0px 0px;
+    @include lt-xl {
+      padding: 80px 0px 0px 0px;
+      width: 33%;
+    }
+    @include lt-lg {
+      padding: 60px 0px 0px 0px;
+      width: 33%;
+    }
+    @include lt-md {
+      width: 90%;
+      margin: auto;
+    }
+    img {
+      width: 100%;
+    }
+  }
+
+
+
+
+  .text_container_55_p2 {
+    margin-top: 25%;
+    text-align: left;
+    @include lt-lg {
+      margin-top: 80px;
+    }
+    @include lt-md {
+      margin-top: 20px;
+    }
+  }
+}
+
+.our_services_55 {
+  width: 100%;
+  margin: 40px 0px 0px 0px;
+  padding: 30px 0px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  @include lt-md {
+    flex-direction: column;
+  }
+
+  .service_55 {
+    width:33%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px 0px;
+
+    @include lt-md {
+      width: 100%;
+    }
+  }
+
+  .left_border {
+    border-left: 1px solid #ffb703;
+    @include lt-md {
+      border-left: 0px solid #ffb703;
+    }
+  }
+}
+
+.end_of_about_us {
+  position: relative;
+  width: 100%;
+  height: 600px;
+  display: flex;
+  align-items: flex-end;
+  padding: 0 180px;
+  background-image: url("../../assets/images/abtus.webp");
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.end_of_about_us::after {
+  content: ''; /* Required for pseudo-elements */
+  position: absolute; /* Position the overlay relative to the parent */
+  top: 0; /* Position from the top */
+  left: 0; /* Position from the left */
+  width: 100%; /* Overlay width same as parent */
+  height: 100%; /* Overlay height same as parent */
+  background: rgba(0, 0, 10, 0.3); /* Semi-transparent black overlay */
+  z-index: 1; /* Ensure the overlay is above the background image */
+}
+/* Style for the paragraph */
+.end_of_about_us p {
+  color: #ffffff;
+  font-family: 'White Dream PERSONAL USE ONLY';
+  font-style: normal;
+  font-weight: 200;
+  font-size: 35px;
+
+  text-align: center;
+ 
+}
+@media only screen and (max-width: 992px) {
+  .end_of_about_us p {
+    font-size: 25px;
+  }
+
+}
+
+
+/* Style for the links */
+.end_of_about_us a {
+  /* Your link styles here */
+  margin-bottom: 70px; /* Add some space between links and buttons */
+}
+
+/* Style for the buttons */
+.end_of_about_us .buttons {
+  margin-bottom: 70px; /* Add some space between buttons and bottom */
+}
+
+/* Media queries for responsive padding adjustments */
+@media screen and (max-width: 1200px) {
+  .end_of_about_us {
+    padding: 0 120px;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .end_of_about_us {
+    padding: 0 85px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .end_of_about_us {
+    padding: 0 20px;
+  }
+  .end_of_about_us p,
+  .end_of_about_us a {
+    text-align: center; /* Center align on smaller screens */
+  }
+}

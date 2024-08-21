@@ -1,0 +1,15 @@
+{
+    "certif": {
+        "rel": "Transcript",
+        "cv": "CV (Curriculum Vitae)",
+        "dip": "Diploma",
+        "lm": "Cover Letter",
+        "pass": "Passport",
+        "app": "Approved",
+        "ref": "Refused",
+        "ann": "Cancel",
+        "env": "Send",
+        "msg": "has been successfully approved. Thank you!",
+        "add": "Upload the certificate for the candidate"
+    }
+}

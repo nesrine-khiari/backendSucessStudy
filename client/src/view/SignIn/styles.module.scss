@@ -1,0 +1,50 @@
+@import"../../assets/scss/media-queries.scss";
+// @include lt-xxl {}
+
+.main {
+  width: 100%;
+  height: auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  @include lt-md {
+    height: auto;
+    flex-direction: column;
+  }
+}
+
+.img_side {
+  width: 50%;
+  height: 100%;
+  @include lt-md {
+    width: 100%;
+  }
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.form_side {
+  width: 50%;
+  padding: 0px 60px;
+  position: relative;
+  @include lt-lg {
+    padding: 0px 40px;
+  }
+  @include lt-md {
+    width: 100%;
+    padding: 0px 20px;
+  }
+
+  h3 {
+    @include lt-md {
+      width: 100%;
+      text-align: center;
+    }
+  }
+}

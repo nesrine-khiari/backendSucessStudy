@@ -1,0 +1,11 @@
+.drop_down_title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 15px;
+}
+
+.drop_down_background {
+  background: linear-gradient(to right, #ffb703 17%, #ffd68f 17%) !important;
+  border-radius: 10px;
+}

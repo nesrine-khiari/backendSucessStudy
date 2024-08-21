@@ -1,0 +1,14 @@
+{
+    "university": {
+    "bio": "Bio",
+    "presentation": "Presentation",
+    "formation": "Training",
+    "send": "Send a Request",
+    "pen": "Your request is being processed",
+    "accepted": "has accepted your request! Congratulations, you will receive the certificate on your Email.",
+    "rejected": "has rejected your request. Unfortunately, you can reapply now!",
+    "motif": "Reason for rejection: ",
+    "resend": "Resend your request"
+
+    }
+    }

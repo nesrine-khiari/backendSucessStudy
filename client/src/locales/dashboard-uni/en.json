@@ -1,0 +1,19 @@
+
+
+{
+    "uniDash": {
+        "dash": "Dashboard",
+        "soumis": "Student Submission",
+        "trans": "Transaction",
+        "approved": "Approved Student",
+        "refused": "Rejected Student",
+        "user": "User",
+        "date": "Date",
+        "email": "Email",
+        "status": "Status",
+        "etudant_approve": "Approved Student",
+        "commi": "Commission",
+        "rev": "Total Revenue",
+        "details":"Show more details"
+    }
+}

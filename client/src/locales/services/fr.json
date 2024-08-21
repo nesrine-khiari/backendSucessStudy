@@ -1,0 +1,23 @@
+{
+    "service": {
+        "title": "Success Study vous offre des services exceptionnels et sur mesure",
+        "heading_one": "Nos Services en Tunisie",
+        "service_1": "Conseils et orientation académiques",
+        "service_2": "Prise en charge du processus d’inscriptions dans une école universitaire/ centre agrées.",
+        "service_3": "Logement sécurisé",
+        "service_4": "Accompagnement administratif",
+        "service_5": "Paiement en ligne",
+        "service_6": "Soutien personnalisé avec un parrain mise en disposition (incluant des activités sociales et divertissantes)",
+        "service_7": "Accueil à l’aéroport",
+        "service_8": "Assistance pour la carte de séjour",
+        "residencyCardAssistance": "Accompagnement carte de séjours",
+        "universityEnrollmentCertified": "Inscription dans une école universitaire / centre agréées",
+        "secureAccommodationUpdated": "Hébergement sécurisé",
+        "onlinePaymentAvailable": "Paiement en ligne",
+        "visaAssistanceProvided": "Accompagnement visa",
+        "followUpAssistanceExtended": "Suivi accompagnement (assurance étudiant/compte bancaire/…)",
+        "residencyCardAssistanceUpdated": "Accompagnement carte de séjours",
+        "personalMentorshipEnhanced": "Accompagnement spécifique avec un parrain (sortie, loisir ;…)",
+        "int_service": "Nos Service à l'international"
+    }
+}

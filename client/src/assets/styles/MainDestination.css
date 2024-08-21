@@ -1,0 +1,17 @@
+.mainDestinationContainer {
+  margin-top: 7%;
+}
+.mainDestinationMainTitle {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 84px;
+  text-align: center;
+}
+.mainDestinationSubTitle {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 45px;
+  text-align: center;
+}

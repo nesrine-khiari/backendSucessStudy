@@ -1,0 +1,15 @@
+{
+    "city": {
+        "destination": "Our Destinations",
+        "not_available": "There are no universities in this country",
+        "addrr": "Address",
+        "org": "Parent Organizations",
+        "tele": "Telephone",
+        "price": "Price",
+        "learn": "Send a Request",
+        "not_available_logo": "There are no logo in this university",
+        "not_available_formation": "Training not available",
+        "not_bio_formation": "Bio not available",
+        "not_descs_formation": "Presentation not available"
+    }
+}

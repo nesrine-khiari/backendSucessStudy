@@ -1,0 +1,13 @@
+.drop_down_style {
+  background: #fcfcfc !important;
+  border: 1px solid #f3f3f3 !important;
+  border-radius: 8px !important;
+  color: #838aa3 !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-size: 14px !important;
+  line-height: 15px !important;
+  text-align: left !important;
+  min-height: 50px;
+  margin: 5% 0 !important;
+}

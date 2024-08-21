@@ -1,0 +1,14 @@
+{
+    "university":{
+        "bio":"Bio",
+        "presentation":"Présentation",
+        "formation":"Formation",
+        "send":"envoyer une demande",
+        "pen":"Vous demande est en cours de traitement",
+        "accepted":"a accpeter votre demande !  Félicitation  vous allez recevoir l'attestation sur votre Email.",
+        "rejected":"a refuser votre demande. Malheurement Vous pouvez repostuler maintenant !",
+        "motif":"Motif de refus : ",
+        "resend":"Re-envoyer votre demande",
+        "price":"Prix"
+    }
+}

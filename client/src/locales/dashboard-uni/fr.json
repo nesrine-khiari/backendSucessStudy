@@ -1,0 +1,17 @@
+{
+    "uniDash":{
+        "dash": "Tableau de bord",
+        "soumis":"Soumission de l'étudiant",
+        "trans":"Transaction",
+        "approved":"Étudiant approuvé",
+        "refused":"Étudiant réfuser",
+        "user":"Utilisateur",
+        "date":"Date",
+        "email":"Email",
+        "status":"Status",
+        "etudant_approve":"Étudiant approuvé",
+        "commi":"Commission",
+        "rev":"Revenus total",
+        "details":"Afficher les détails"
+    }  
+}

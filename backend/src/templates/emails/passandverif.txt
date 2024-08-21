@@ -1,0 +1,11 @@
+Dear {{name}},
+Below is your verification link.
+
+{{token}}
+
+and here is your temporary password
+
+{{tempPass}}
+
+Regards,
+Team

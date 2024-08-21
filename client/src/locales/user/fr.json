@@ -1,0 +1,30 @@
+{
+    "user": {
+        "user": "Utilisateur",
+        "email": "Email",
+        "lang": "Langue",
+        "pays": "Pays",
+        "notif": "Notifications",
+        "change": "Modifier",
+        "profil": "Profile",
+        "gen": "Information Générales",
+        "img_prof": "Profile Image",
+        "docs": "Documents",
+        "modif": "Modifier Profil Image",
+        "modif_img": "Modifier Documents",
+        "level": "Niveau",
+        "with": "Avec Bac",
+        "not_with": "Sans Bac",
+        "change_in": "Modifier les informations",
+        "change_bio": "Modifier Bio",
+        "ajouter_img": "Ajouter Ton Image ",
+        "info": "Formation",
+        "ph": "Photos",
+        "bio": "bio",
+        "pwd": "Changer Mot de Passe",
+        "updateIm":"Mettre à jour votre image",
+        "notMatch": "L'ancien mot de passe est incorrect",
+        "changeSucc":"Mot de passe changé avec succès"
+
+    }
+}

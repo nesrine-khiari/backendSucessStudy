@@ -1,0 +1,190 @@
+.page_title_container {
+  margin-top: -3%;
+  width: max-content;
+}
+.submission_container {
+  padding: 2.5% 0;
+  margin-bottom: 2.5%;
+}
+.student_id_title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 27px;
+}
+.student_submit_btn {
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-size: 16px !important;
+  line-height: 15px !important;
+  min-height: 35px !important;
+}
+.title_2 {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 48px;
+  line-height: 72px;
+}
+
+.type_name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 119.5%;
+  color: #0e243a;
+}
+
+.typo {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 15px;
+  color: #393e43;
+  margin: 2% 0 !important;
+}
+@media (max-width: 992px) {
+  .typo {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 15px;
+    color: #393e43;
+    margin: 2% 0 !important;
+  }
+  
+}
+
+.typo_2 {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 22px;
+  color: #0e243a;
+}
+
+.container_1 {
+  background-color: rgba(2, 48, 71, 0.22);
+  backdrop-filter: blur(5px);
+}
+.container_2 {
+  position: relative;
+ margin-top: -32%;
+ z-index: 15;
+}
+.main_title {
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-size: 40px !important;
+  line-height: 150% !important;
+}
+
+.second_title {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 120%;
+}
+.third_title {
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 24px !important;
+  line-height: 27px !important;
+  /*  */
+  padding-bottom: 3% !important;
+  border-bottom: 1px solid #02304738 !important;
+}
+.forth_btn_styling {
+  padding: 1% 4% !important;
+  border-radius: 12px !important;
+}
+.forth_title {
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 16px !important;
+  line-height: 150% !important;
+}
+.sub_title {
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 22px !important;
+  line-height: 27px !important;
+}
+
+.width_70 {
+  width: 100%;
+}
+
+.drop_zone_title {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 17px;
+}
+
+@media (max-width: 992px) {
+  .drop_zone_title {
+    font-style: normal;
+    font-weight: 400;
+    font-size:14px;
+    line-height: 17px;
+  }
+  .width_70{
+    width: 100%;
+  }
+
+.student_submit_btn {
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 14px !important;
+    line-height: 15px !important;
+    min-height: 35px !important;
+}
+.student_id_title {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px!important;
+  line-height: 25px!important;
+  /* width: 53%; */
+}
+  .type_name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 119.5%;
+    color: #0e243a;
+  }
+  .justify-lg-center{
+    justify-content: center;
+  }
+  .main_title {
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 30px !important;
+    line-height: 150% !important;
+}
+.input_file{
+  width: 100%!important;
+}
+.file_name_text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px!important;
+  line-height: 15px;
+}
+}
+
+.input_file {
+  background: rgba(2, 48, 71, 0.08);
+  border-radius: 10px;
+  width: 50%;
+  min-height: 35px;
+}
+
+.file_name_text {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 15px;
+}
+
+

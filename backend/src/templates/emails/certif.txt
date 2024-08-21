@@ -1,0 +1,7 @@
+Dear {{name}},
+
+This is your certification
+{{image}}
+
+Regards,
+Team

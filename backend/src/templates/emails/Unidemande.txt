@@ -1,0 +1,6 @@
+Dear Success,
+
+{{UniName}} wants to join the plateform , check the dashboard !
+
+Regards,
+Team

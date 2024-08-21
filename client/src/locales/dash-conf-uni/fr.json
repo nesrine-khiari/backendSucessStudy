@@ -1,0 +1,60 @@
+{
+    "uni_params":{"name": "Nom",
+    "full_name": "Nom complet",
+    "phone_number": "Numéro de téléphone",
+    "country": "Pays",
+    "organization_parent": "Organisation Mère",
+    "address": "Adresse",
+    "notifications": "Notifications",
+    "add_logo": "Ajouter Logo",
+    "add_cover": "Ajouter Couverture",
+    "bio": "Biographie",
+    "long_description": "Description Longue",
+    "label": "Libellé",
+    "university_name": "Nom complet de l'université",
+    "organization_parent_2": "Organisation Mère",
+    "phone_number_2": "Numéro de téléphone",
+    "address_2": "Adresse",
+    "country_2": "Pays",
+    "formation_name": "Nom de la formation",
+    "formation_duration": "Durée de la formation en Semaines",
+    "formation_price": "Prix de la formation",
+    "formation_description": "Description de la formation",
+    "formation_level": "Niveau de la formation",
+    "add_another_formation": "Ajouter une autre formation",
+    "modify_data":"Modifier les informations",
+
+    "listForm" : "Liste des Formations",
+    "createForm" : "Ajouter une nouvelle Formation",
+    "price":"Prix",
+    "duration":"Durée",
+    "week":"Semaines",
+
+    "updateForm":"Modifier la Formation",
+    "cancel": "Annuler",
+    "delete": "Supprimer",
+    "deleteForm": "Supprimer la Formation",
+    "deleteQuestion": "Êtes-vous sûr de vouloir supprimer",
+    "deleteRewrite": "Réécrivez le nom de l'université pour confirmer la suppression.",
+    "deleteShortName": "Nom court de l'université *",
+
+    "verifDel":"Verifier le nom de la formation",
+    "nomOblig":"Le champ 'Nom de formation' est obligatoire",
+    "dureeOblig":"Le champ 'Durée de formation' est obligatoire",
+    "descOblig":"Le champ 'Description de formation' est obligatoire",
+    "deviseOblig":"Le champ 'Devise' est obligatoire",
+
+    
+     
+   
+     
+        "add_cv": "Ajouter votre CV",
+        "add_passport": "Ajouter votre passeport",
+        "add_diploma": "Ajouter votre diplôme",
+        "add_motivation_letter": "Ajouter votre lettre de motivation",
+        "add_transcript": "Ajouter votre relevé de notes"
+      
+    
+}
+  }
+  

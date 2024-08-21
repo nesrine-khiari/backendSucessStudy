@@ -1,0 +1,933 @@
+.main-section-bar-video {
+    margin-bottom: 5em;
+    overflow-x: hidden;
+}
+
+.landing-page-success-text {
+    font-family: 'White Dream PERSONAL USE ONLY';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 52px;
+    line-height: 84px;
+
+    color: #FFB703;
+}
+
+.white-text-footer-tr {
+    font-size: 16px;
+}
+
+
+
+.landing-describe-sucess-text {
+    font-family: 'Gotham';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #023047;
+    line-height: 160%;
+}
+
+.width-button-landinga-page {
+    width: 100%;
+}
+
+.pss-5 {
+    padding-left: 3rem;
+}
+
+.width-btn-landinga-page{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    background: #FFB703;
+    border: none;
+    outline: none;
+    border-radius: 12px;
+}
+.width-btn-landinga-page:hover {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    padding: 1.25rem;
+    font-size: 16px;
+    font-weight: 600;
+    color: white;
+    background: #e0a613;
+    border: none;
+    outline: none;
+    border-radius: 12px;
+}
+
+
+.porps-about-company-des {
+    font-family: 'White Dream PERSONAL USE ONLY';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 56px;
+
+    color: #FFB703;
+}
+
+.porps-about-company-des-title {
+    font-family: 'Gotham';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 45px;
+    /* or 188% */
+
+
+    color: #023047
+}
+
+.img-section-box-landing {
+    height: 100%;
+    width: 100%;
+
+
+}
+
+.text-about-dis-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    line-height: 19px;
+    /* or 44% */
+    color: #f4ba41ff;
+}
+
+
+.our-service-lang {
+    font-family: 'White Dream PERSONAL USE ONLY';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 84px;
+margin: 20px;
+    color: #FFFFFF;
+}
+
+.border-green-supp-landing {
+    background: rgba(2, 48, 71, 0.2);
+    backdrop-filter: blur(2px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 40px;
+}
+
+.service-destination-text-loc {
+    font-family:  'White Dream PERSONAL USE ONLY';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 55px;
+    color: #FFB703;
+}
+
+.service-list-drop-down {
+
+    font-family: 'Gotham';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 25px;
+    margin-top: 13px;
+    width: 130%;
+
+    margin-top: 40px;
+        display: flex;
+    color: #023047;
+}
+
+.width-green-card-lan {
+    width: 100%;
+}
+
+.text-post-underline {
+    background: #FFB703;
+    width: 90%;
+    position: absolute;
+    top:90px;
+    width: 93%;
+    height: 2.5px;
+    right: 0;
+
+}
+
+.width-green-card-lan-yallow,
+.width-green-card-lan-yallow:hover {
+    border-radius: 12px;
+    width: 30%;
+    background: #FFB703;
+    border-radius: 12px;
+    border: none;
+    outline: none;
+    padding: 1.5rem 0;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    display: flex;
+    justify-content: center;
+    /* White */
+    color: #FFFFFF
+}
+
+.card-pos-about-landing {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: 13%;
+    width: 1250px;
+
+}
+
+
+.card-feed-header img {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+
+}
+
+.landing-page-success-text-desc-popings {
+    font-family: 'Gotham';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 45px;
+    color: #023047;
+}
+
+.landing-describe-sucess-text-popings {
+    font-family: 'Gotham';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 34px;
+    /* or 189% */
+
+
+    color: #023047;
+}
+
+.pos-relative-landing {
+    position: absolute;
+    top: -10%;
+    left: -8%;
+}
+
+.width-company-feed {
+    width: 55%;
+}
+
+.shaodw-box-container {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 76px -29px rgba(0, 0, 0, 0.11);
+    padding: 30rem 0;
+}
+.shaodw-box-container-mob {
+    background: #FFFFFF;
+    box-shadow: 0px 0px 76px -29px rgba(0, 0, 0, 0.11);
+    padding: 0rem 0;
+}
+
+.text-success-to-say {
+    font-family: 'White Dream PERSONAL USE ONLY';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 84px;
+
+    color: #FFB703;
+
+}
+
+.card-user-yallow-lang-suc {
+    width: 49%;
+    padding: 3rem 0;
+    border-left: 130px solid #023047;
+    margin: 8rem 0;
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 76px -29px rgba(0, 0, 0, 0.11);
+}
+
+.card-user-yallow-lang-suc-yal {
+    width: 49%;
+    padding: 3rem 0;
+    border-right: 130px solid #FFB703;
+    margin: 8rem 0;
+
+    background: #FFFFFF;
+    box-shadow: 0px 0px 76px -29px rgba(0, 0, 0, 0.11);
+}
+
+.text-card-fomration-lan {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 45px;
+    /* or 112% */
+
+
+    color: #FFB703;
+}
+
+.text-card-fomration-lan-blue {
+    font-family: 'Gotham';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 45px;
+    /* identical to box height, or 173% */
+
+
+    color: #023047;
+}
+
+.user-feed-card {
+    background: #FFFFFF;
+    border: 1px solid #E2E4E8;
+    border-radius: 10px;
+    padding: 25px 20px;
+    margin-right: 1rem;
+    height: 100%;
+}
+
+.card-feed-body {
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+
+
+    color: #1D293F;
+}
+
+.feedback-sec {
+    position: relative;
+}
+
+.pos-absolute-next {
+    position: absolute;
+    right: 6%;
+    top: 30%;
+}
+
+.main-text-feed {
+    font-weight: 700;
+    font-size: 58px;
+    line-height: 64px;
+    /* or 110% */
+
+    font-family: mainFontBlack;
+
+    color: #1D293F;
+}
+
+.fa-angle-right {
+    color: var(--color-second);
+}
+
+.fa-angle-left {
+    color: #288d6a35;
+}
+
+.feed-user-name {
+    font-size: 18px;
+    line-height: 32px;
+    /* identical to box height, or 178% */
+
+
+    color: #1D293F;
+
+}
+
+.text-about-feed {
+    margin: 20px 0;
+    width: 55%;
+    display: block;
+}
+
+.box-feedback-user {
+    display: flex;
+    width: 100%;
+    overflow-x: scroll;
+    padding: 5rem 0;
+
+}
+
+.box-feedback-user::-webkit-scrollbar {
+    display: none;
+}
+
+.box-feedback-user {
+    margin: 3rem 0;
+}
+
+.feedback-sec {
+    margin-top: 12rem;
+}
+
+.card-feed-body {
+    padding: 10px 0;
+}
+
+.groups-dots-feedback {
+    position: absolute;
+    right: 5%;
+    z-index: 5;
+    top: -16%;
+    transform: rotate(90deg);
+}
+
+.groups-feedback-work {
+    position: absolute;
+    right: 0%;
+    top: -30%;
+}
+
+.footer-bar-section-landing-page {
+    position: relative; /* Ensure the overlay is positioned relative to this element */
+    height: 640px;
+    width: 100%;
+    background: #023047; /* Background color with transparency */
+    background-image: url('../images/studentsTogether2.webp'); /* Background image */
+    background-position: center; /* Center the background image */
+    background-size: cover; /* Ensure the background image covers the entire element */
+    background-repeat: no-repeat; /* Prevent background image from repeating */
+}
+
+.footer-bar-section-landing-page::after {
+    content: ''; /* Required for pseudo-elements */
+    position: absolute; /* Position the overlay relative to the parent */
+    top: 0; /* Position from the top */
+    left: 0; /* Position from the left */
+    width: 100%; /* Overlay width same as parent */
+    height: 100%; /* Overlay height same as parent */
+    background: rgba(0, 0, 10, 0.5); /* Semi-transparent black overlay */
+    z-index: 1; /* Ensure the overlay is above the background image */
+}
+
+.text-footerl-line-header {
+    font-family: 'White Dream PERSONAL USE ONLY';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 56px;
+    line-height: 84px;
+    text-align: center;
+    color: #FFFFFF;
+    position: relative; /* Ensure the text is positioned relative to its parent */
+    z-index: 2; /* Ensure the text appears above the overlay */
+}
+
+
+.pos-right-fles-txt {
+    position: absolute;
+    width: 5.5%;
+    top: 0.5%;
+    height: 80px;
+    background-color: #FFB703;
+    left: 0;
+}
+
+.pos-elips-image-bg {
+    position: absolute;
+    position: absolute;
+    left: -35%;
+    top: 0%;
+    z-index: -1;
+    width: 55% !important;
+}
+
+.flip-card {
+    background-color: transparent;
+    width: 100%;
+    height: 304px;
+    border: 1px solid #f1f1f1;
+    border-radius: 8px;
+
+    perspective: 1000px;
+    /* Remove this if you don't want the 3D effect */
+}
+
+/* This container is needed to position the front and back side */
+.flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.8s;
+    transform-style: preserve-3d;
+    border-radius: 8px;
+}
+
+/* Do an horizontal flip when you move the mouse over the flip box container */
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+/* Position the front and back side */
+.flip-card-front,
+.flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 101%;
+    -webkit-backface-visibility: hidden;
+    /* Safari */
+    backface-visibility: hidden;
+}
+
+/* Style the front side (fallback if image is missing) */
+.flip-card-front {
+    background-color: #bbb;
+    color: black;
+    border-radius: 8px;
+
+}
+
+.btn-about-card-front,
+.btn-about-card-front:hover {
+
+    background: #FFB703;
+    border-radius: 12px;
+    width: 40%;
+    color: white;
+    padding: 1.5rem 0;
+    font-size: 16px;
+
+}
+
+/* Style the back side */
+.flip-card-back {
+    background-color: white;
+    filter: drop-shadow(0px 4px 36px rgba(0, 0, 0, 0.15));
+    transform: rotateY(180deg);
+    border-radius: 8px;
+    border: none;
+    background: white;
+
+}
+
+.texta-underline-footer {
+    font-family: 'Gotham';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+z-index: 2;
+    text-align: center;
+    width: 35%;
+    color: #FFFFFF;
+}
+
+.img-sec-lan {
+    width: 100%;
+    height: 430px;
+    position: relative;
+    margin: 8rem 0;
+    background: url(../images/modify.webp);
+    background-position-x: 25%;
+
+
+}
+
+.btn-footer-special-ed {
+    background: #FFB703;
+    border-radius: 12px;
+    color: white;
+    width: 20%;
+    padding: 1.5rem;
+    border: none;
+    outline: none;
+    font-size: 14px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+z-index: 2;
+    justify-content: center;
+}
+
+.card-pos-about-landing-md {
+    width: 80%;
+
+}
+
+.main-section-bar-video-mob {
+    overflow-x: hidden;
+    height: 40vh;
+    background: white;
+    display: flex;
+    align-items: center;
+    position: relative;
+    top: 60px;
+}
+
+@media (max-width: 992px) {
+
+
+    .card-user-yallow-lang-suc {
+        width: 100%;
+    }
+
+    .card-user-yallow-lang-suc-yal {
+        width: 100%;
+       
+    }
+
+  .border-green-supp-landing {
+    background: rgba(2, 48, 71, 0.2);
+    backdrop-filter: blur(2px);
+    /* Note: backdrop-filter has minimal browser support */
+    border-radius: 40px;
+}
+
+
+    .service-destination-text-loc {
+        font-family:  'White Dream PERSONAL USE ONLY';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 45px;
+        color: #FFB703;
+    }
+    .service-destination-text-loc2 {
+        font-family:  'White Dream PERSONAL USE ONLY';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 27px;
+        line-height: 45px;
+        color: #FFB703;
+    }
+
+    .img-sec-lan {
+        width: 100%;
+        height: 543px;
+        position: relative;
+        margin: 8rem 0;
+        background: url(../images/modify5resize.webp);
+        background-position-x: 25%;
+
+
+    }
+
+    
+.card-pos-about-landing-md {
+    width: 100%;
+margin-top: 20px;
+}
+
+    .service-list-drop-down {
+        
+    font-family: 'Gotham';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    text-align: center;
+    position: relative;
+    bottom: 20px;
+    width: 130%;
+    display: flex;
+    right: 3px;
+    color: #023047;
+    justify-content: center;
+    margin-top: 45px;
+    }
+
+    .service-list-drop-down2 {
+        
+        font-family: 'Gotham';
+        font-style: italic;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 18px;
+        text-align: center;
+        position: relative;
+        bottom: 20px;
+        width: 130%;
+        display: flex;
+        right: 3px;
+        color: #023047;
+        justify-content: center;
+        margin-top: 45px;
+        }
+
+    .width-green-card-lan-yallow {
+        border-radius: 12px;
+        width: 60%;
+        background: #FFB703;
+        border-radius: 12px;
+        border: none;
+        outline: none;
+        padding: 1rem 0;
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 21px;
+        display: flex;
+        justify-content: center;
+        /* White */
+
+        color: #FFFFFF
+    }
+
+    .main-section-bar-video {
+        margin-bottom: 3rem;
+        overflow-x: hidden;
+        height: 100vh;
+        background: black;
+        display: flex;
+        align-items: center;
+    }
+
+ 
+
+    .texta-underline-footer {
+        font-family: 'Gotham';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 28px;
+        /* or 175% */
+
+        text-align: center;
+        width: 100%;
+        color: #FFFFFF;
+    }
+
+    .text-footerl-line-header {
+        font-family: 'White Dream PERSONAL USE ONLY';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 25px;
+        line-height: 150%;
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+
+    .btn-footer-special-ed {
+        width: 80%;
+        font-size: 14px;
+        padding: 1rem;
+       position: relative;
+       bottom: 35px;
+    }
+
+    .footer-bar-section-landing-page {
+        height: 490px;
+        width: 100%;
+        background-image: url('../images/studentsTogether2.webp'); 
+
+
+    }
+
+    .pss-5 {
+        padding-left: 1rem;
+    }
+
+    .landing-page-success-text {
+        font-family: 'White Dream PERSONAL USE ONLY';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 34px;
+        line-height: 150%;
+
+        color: #FFB703;
+    }
+
+    .landing-page-success-text-desc-popings {
+        font-family: 'Gotham';
+        font-style: italic;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 45px;
+        /* or 188% */
+
+
+        color: #023047;
+    }
+
+    .landing-describe-sucess-text-popings {
+        font-family: 'Gotham';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 34px;
+        /* or 189% */
+
+
+        color: #023047;
+    }
+
+    .text-success-to-say {
+        font-family: 'White Dream PERSONAL USE ONLY';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 150%;
+
+        color: #FFB703;
+
+    }
+
+    .porps-about-company-des-title {
+        font-family: 'Gotham';
+        font-style: italic;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 30px;
+        /* or 188% */
+
+
+        color: #023047
+    }
+
+   
+    .text-card-fomration-lan {
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 45px;
+        /* or 112% */
+
+
+        color: #FFB703;
+    }
+
+    .text-card-fomration-lan-blue {
+        font-family: 'Gotham';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 45px;
+        /* identical to box height, or 173% */
+
+        text-align: center;
+        color: #023047;
+    }
+
+    .card-user-yallow-lang-suc {
+        width: 100%;
+        padding: 3rem 0;
+        border-left: 60px solid #023047;
+        margin: 8rem 0;
+        background: #FFFFFF;
+        box-shadow: 0px 0px 76px -29px rgba(0, 0, 0, 0.11);
+    }
+
+    .btn-about-card-front,
+    .btn-about-card-front:hover {
+        background: #FFB703;
+        border-radius: 12px;
+        width: 50%;
+        color: white;
+        padding: 1rem 0;
+        font-size: 12px;
+    }
+
+    .width-company-feed {
+        width: 100%;
+    }
+
+    .card-user-yallow-lang-suc-yal {
+        width: 100%;
+        padding: 3rem 0;
+        border-right: 60px solid #FFB703;
+        margin: 8rem 0;
+        margin-bottom: 160px;
+        background: #FFFFFF;
+        box-shadow: 0px 0px 76px -29px rgba(0, 0, 0, 0.11);
+    }
+
+    .white-text-footer-tr {
+        font-size: 14px;
+    }
+
+    .porps-about-company-des {
+        font-family: 'White Dream PERSONAL USE ONLY';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 34px;
+        margin-left: 1.5rem;
+        color: #FFB703;
+    }
+
+    .pos-absolute-next {
+        position: absolute;
+        right: 6%;
+        top: 15%;
+    }
+
+    .our-service-lang {
+        font-family: 'White Dream PERSONAL USE ONLY';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 45px;
+        line-height: 84px;
+    margin: 20px;
+        color: #FFFFFF;
+    }
+    .text-footer {
+        font-size: 14px;
+    }
+
+    .user-feed-card {
+        height: inherit;
+    }
+
+    .landing-describe-sucess-text {
+        font-size: 16px;
+    }
+
+    .width-btn-landinga-page {
+        width: 50%;
+        display: flex;
+        justify-content: center;
+        padding: 1.25rem;
+        font-size: 14px;
+        font-weight: 600;
+        color: white;
+        background: #FFB703;
+        margin-left: 100px;
+        border: none;
+        outline: none;
+        border-radius: 12px;
+    }
+    .width-btn-landinga-page:hover {
+        width: 50%;
+        display: flex;
+        margin-left: 100px;
+        justify-content: center;
+        padding: 1.25rem;
+        font-size: 14px;
+        font-weight: 600;
+        color: white;
+        background: #e0a613;
+        border: none;
+        outline: none;
+        border-radius: 12px;
+    }
+    .pos-relative-landing {
+        position: absolute;
+        top: 10%;
+        left: -8%;
+    }
+
+}
+
+

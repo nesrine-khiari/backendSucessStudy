@@ -1,0 +1,7 @@
+.btn-outline-danger:hover {
+    background-color: transparent !important; /* Change the background color to transparent when hovering */
+  }
+  .btn-outline-primary:hover {
+    background-color: transparent !important; /* Change the background color to transparent when hovering */
+  }
+  

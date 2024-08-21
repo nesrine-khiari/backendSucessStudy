@@ -1,0 +1,196 @@
+@import url("https://fonts.cdnfonts.com/css/inter");
+.main_section {
+  height: 100vh;
+  background-size: cover;
+  position: absolute;
+  z-index: 1;
+}
+.country_content_position {
+  position: absolute !important;
+  top: 0 !important;
+}
+.pos-right-stepr{
+  position: absolute;
+  left: 2%;
+  top: 10%;
+  height: 80%;
+}
+
+.countries_main_title {
+  font-family: "Inter" !important;
+  font-style: normal !important;
+  font-weight: 900 !important;
+  font-size: 60px !important;
+  line-height: 100% !important;
+  color: #ffffff !important;
+  text-transform: uppercase;
+}
+.p_content {
+  font-family: "Inter" !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-size: 16px !important;
+  line-height: 150% !important;
+  color: #ffffff;
+}
+
+.country_title {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 25px;
+  line-height: 30px;
+
+  color: #ffffff;
+}
+.countries_btn {
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 14px !important;
+  line-height: 21px !important;
+  background: #ffb703 !important;
+  border-radius: 12px !important;
+}
+
+.nextPrevBtn {
+  border: 2px solid #ffffff !important;
+  background: rgba(217, 217, 217, 0.5) !important;
+  color: white !important;
+  border-radius: 50% !important;
+}
+
+.nextPrevBtn:hover {
+  border: 2px solid #9c9393 !important;
+  transform: scale(1.3);
+  color: #9c9393 !important;
+}
+
+/* .main_picture {
+  transform: scale(1.3);
+} */
+.big_picture {
+  transform: scale(1.3);
+}
+.card-countries-check-bg-t{
+  border: none;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  transform: translateY(-28px);
+}
+.pos-countries-box{
+  top: 17%;
+  width: 125%;
+  right: -75%;
+  position: absolute;
+}
+.container-box-countries{
+  display: flex;
+  overflow-x: scroll;
+  justify-content: space-between;
+  padding:3rem 0;
+  width: 40%;
+}
+.card-container-countries{
+  width: 295px;
+  height: 470px;
+}
+.card-container-countries-sec{
+  width: 310px;
+  height: 420px;
+
+}
+.card-countries-check-bg{
+  border: none;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    width: 290px;
+    padding: 1.5rem;
+}
+
+/* width */
+.container-box-countries::-webkit-scrollbar {
+  display: none;
+  -ms-overflow-style: none;
+  scrollbar-width: 10px;
+
+
+}
+
+.container-box-countries::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+.container-box-countries::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+.container-box-countries::-webkit-scrollbar-thumb {
+  background: #888;
+}
+.fade-in {
+	opacity: 1;
+	animation-name: fadeInOpacity;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+	animation-duration:0.5s;
+}
+
+@keyframes fadeInOpacity {
+	0% {
+		opacity: 0.8;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+
+.fade-out {
+	opacity: 1;
+	animation-name: fadeDownOpacity;
+	animation-iteration-count: 1;
+	animation-timing-function: ease-in;
+	animation-duration: 1s;
+}
+
+@keyframes fadeDownOpacity {
+	100% {
+		opacity: 0;
+	}
+	0% {
+		opacity: 1;
+	}
+}
+@media (max-width: 992px) {
+
+  .countries_main_title {
+    font-family: "Inter" !important;
+    font-style: normal !important;
+    font-weight: 900 !important;
+    font-size: 60px !important;
+    line-height: 110% !important;
+    color: #ffffff !important;
+    text-transform: uppercase;
+  }
+  .card-countries-check-bg {
+    border: none;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    width: 100%;
+    padding: 1.5rem 0;
+}
+.main_section {
+  height: 100%; 
+  background-size: cover;
+  position: inherit!important;
+  z-index: 1;
+  padding: 40% 0 10% 0;
+}
+.box-tick-ng{
+  width: 51px;
+  height: 51px ;
+  color: white;
+  background-color: #d9d9d97b;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+.underlin .fa-angle-left {
+  color: white!important;
+}
+}

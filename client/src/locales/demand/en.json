@@ -1,0 +1,23 @@
+{
+    "demand":
+    {
+        "study_in_tunisia": "Study in ",
+        "university": "University",
+        "form": "Form",
+        "name": "Name",
+        "email": "Email",
+        "country": "Country",
+        "select_formation": "Select a Formation",
+        "add_cv": "Add Your CV ",
+        "add_passport_copy": "Add a Copy of Passport ",
+        "add_diploma": "Add a Diploma ",
+        "add_transcript_copy": "Add a Copy of Transcript ",
+        "add_motivation_letter_copy": "Add a Copy of Motivation Letter ",
+        "no_file_selected": "No file selected",
+        "browse_files": "Browse files to upload",
+        "send_request_btn": "Send a Request",
+            "study_as_foreign_student": "Study as a Foreign Student",
+  "access_in_demand_degree_programs": "Access the Most In-Demand Degree Programs in the Job Market"
+      }
+      
+}

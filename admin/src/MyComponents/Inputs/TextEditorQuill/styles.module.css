@@ -1,0 +1,8 @@
+.text-editor {
+    min-width: 100%;
+    margin: 0 auto;
+}
+.ql-editor {
+    min-height: 150px;
+    height: 150px;
+}

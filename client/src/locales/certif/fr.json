@@ -1,0 +1,15 @@
+{
+    "certif": {
+        "rel": "Relevé De Note",
+        "cv": "CV",
+        "dip": "Diplome",
+        "lm": "Lettre De Motivation",
+        "pass": "Passeport",
+        "app": "Approuvé",
+        "ref": "Réfusé",
+        "ann": "Annuler",
+        "env": "Envoyer",
+        "msg": "a été bien approuvé. Merci !",
+        "add":"Ajouter la certificat pour le condidat"
+    }
+}

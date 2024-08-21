@@ -1,0 +1,27 @@
+.main_title {
+  font-size: 56px;
+  line-height: 84px;
+  font-style: normal;
+  font-weight: 400;
+}
+.text_centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-style: normal;
+  font-weight: 400;
+  font-size: 43px;
+  line-height: 19px;
+}
+.country_image_styling {
+  border-radius: 12px;
+  background-color: transparent;
+}
+
+.sub_title {
+  font-style: normal !important;
+  font-weight: 500;
+  font-size: 40px !important;
+  line-height: 45px !important;
+}

@@ -1,0 +1,45 @@
+.dropzone {
+  cursor: pointer;
+  background-color: #fff;
+  border: 3px dashed #ffb703;
+  border-spacing: 50px !important;
+  border-radius: 10px;
+  padding: 5% 0 4% 0%;
+}
+.drop_zone_title {
+  font-style: normal;
+  font-weight: 400;
+  font-size:16px;
+  line-height: 17px;
+}
+@media (max-width: 992px) {
+  .drop_zone_title {
+    font-style: normal;
+    font-weight: 400;
+    font-size:14px;
+    line-height: 17px;
+  }
+  
+}
+.file_input {
+  border-radius: 10px;
+  padding: 2% 3%;
+}
+
+.file_input_text {
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-size: 15px !important;
+  line-height: 14px !important;
+}
+
+
+@media (max-width: 992px) {
+  .file_input_text {
+    font-style: normal !important;
+    font-weight: 400 !important;
+    font-size: 13px !important;
+    line-height: 14px !important;
+  }
+  
+}

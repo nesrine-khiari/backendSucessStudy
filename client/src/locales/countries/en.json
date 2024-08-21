@@ -1,0 +1,47 @@
+{
+    "staticCountries" : 
+    [
+    {
+      "name": "France",
+      "description": "",
+      "backgroundImage": "france_background",
+      "swiper": "france_swiper_1",
+      "desc": "La France, officiellement connue sous le nom de République française, est un pays diversifié et culturellement riche situé en Europe occidentale. Elle partage ses frontières avec plusieurs pays, dont la Belgique, le Luxembourg, l'Allemagne, la Suisse, l'Italie, l'Espagne et l'Andorre. De plus, elle possède des côtes le long de la mer Méditerranée, de l'océan Atlantique et de la Manche."
+    },
+    {
+      "name": "Tunisie",
+      "backgroundImage": "tunisia",
+      "swiper": "tunisia_swiper",
+      "desc": "La Tunisie, officiellement connue sous le nom de République tunisienne, est un pays situé en Afrique du Nord, sur la côte méditerranéenne. Elle partage ses frontières avec l'Algérie à l'ouest et la Libye à l'est. La Tunisie a une riche histoire qui remonte à l'époque des anciennes civilisations, telles que les Phéniciens, les Romains et les Arabes, qui ont laissé leur empreinte sur le pays."
+    },
+    {
+      "name": "Belgique",
+      "description": "",
+      "backgroundImage": "belgique_background",
+      "swiper": "belgique_swiper",
+      "desc": "La Belgique est un petit pays situé en Europe occidentale, partageant ses frontières avec la France, les Pays-Bas, l'Allemagne et le Luxembourg. Malgré sa taille modeste, la Belgique est connue pour sa riche histoire, sa culture diversifiée et sa renommée mondiale dans plusieurs domaines."
+    },
+    {
+      "name": "Canada",
+      "description": "",
+      "backgroundImage": "canada_background",
+      "swiper": "canada_swiper",
+      "desc": "Le Canada est un vaste pays situé en Amérique du Nord, s'étendant de l'océan Atlantique à l'est à l'océan Pacifique à l'ouest. Il partage également une frontière avec les États-Unis au sud et est bordé par l'océan Arctique au nord. Avec son immense territoire, le Canada est le deuxième pays le plus vaste du monde après la Russie."
+    },
+    {
+      "name": "Espagne",
+      "description": "",
+      "backgroundImage": "espagne_background",
+      "swiper": "espagne_swiper",
+      "desc": "L'Espagne, officiellement connue sous le nom de Royaume d'Espagne, est un pays situé dans le sud-ouest de l'Europe, sur la péninsule ibérique. Elle partage ses frontières avec la France, le Portugal, l'Andorre et l'Espagne britannique à Gibraltar. L'Espagne comprend également les îles Baléares dans la mer Méditerranée et les îles Canaries dans l'océan Atlantique."
+    },
+    {
+      "name": "Autres Pays",
+      "description": "",
+      "backgroundImage": "countries_background",
+      "swiper": "countries_swiper",
+      "desc": "Vous pouvez choisir un autre pays."
+    }
+  ]
+
+}

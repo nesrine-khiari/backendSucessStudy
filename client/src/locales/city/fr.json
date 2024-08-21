@@ -1,0 +1,15 @@
+{
+    "city":{
+        "destination":"Nos Destinations",
+        "not_available":"Il Y'a Pas Des Universitiés Dans Ce Pays",
+        "addrr":"Adresse",
+        "org":"Organisations mères",
+        "tele":"Téléphone",
+        "price":"Prix",
+        "learn":"Envoyer Demande",
+        "not_available_logo":"Pas de Logo pour cette Universitiés",
+        "not_available_formation":"Pas de formation disponibles",
+        "not_bio_formation":"Bio non disponible",
+        "not_descs_formation":"Présentation on disponible"
+    }
+}

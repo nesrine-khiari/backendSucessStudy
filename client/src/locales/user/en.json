@@ -1,0 +1,28 @@
+{
+    "user": {
+        "user": "User",
+        "email": "Email",
+        "lang": "Language",
+        "pays": "Country",
+        "notif": "Notifications",
+        "change": "Change",
+        "profil": "Profile",
+        "gen": "General Information",
+        "info": "Training",
+        "ph": "Photos",
+        "img_prof": "Profile Image",
+        "docs": "Documents",
+        "modif": "Modify Profile Image",
+        "modif_img": "Modify Documents",
+        "change_bio": "Modify Bio",
+        "level": "Level",
+        "with": "With High School Diploma",
+        "not_with": "Without High School Diploma",
+        "change_in": "Edit Information",
+        "ajouter_img": "Add your image ",
+        "pwd": "Change Password",
+        "updateIm":"Please upload your picture",
+        "notMatch":"Old password is incorrect",
+        "changeSucc":"Password changed successfully"
+        }
+}

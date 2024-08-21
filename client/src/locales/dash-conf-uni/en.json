@@ -1,0 +1,57 @@
+{
+    "uni_params":{
+    "name": "Name",
+    "full_name": "Full Name",
+    "phone_number": "Phone Number",
+    "country": "Country",
+    "organization_parent": "Parent Organization",
+    "address": "Address",
+    "notifications": "Notifications",
+    "add_logo": "Add Logo",
+    "add_cover": "Add Cover",
+    "bio": "Bio",
+    "long_description": "Long Description",
+    "label": "Label",
+    "university_name": "Full University Name",
+    "organization_parent_2": "Parent Organization",
+    "phone_number_2": "Phone Number",
+    "address_2": "Address",
+    "country_2": "Country",
+    "formation_name": "Training Name",
+    "formation_duration": "Training Duration  in Weeks",
+    "formation_price": "Training Price",
+    "formation_description": "Training Description",
+    "formation_level": "Training Level",
+    "add_another_formation": "Add Another Training",
+    "modify_data":"Modify the Training",
+    "week" : "Weeks",
+
+    "listForm" : "List of Trainings",
+    "createForm" : " Add new training",
+    "price":"Price",
+    "duration":"Duration",
+
+    "updateForm":"Update Training",
+    "cancel":"Cancel",
+    "delete":"Delete",
+    "deleteForm": "Delete Training",
+    "deleteQuestion":"Are you sure you want to delete",
+    "deleteRewrite":"Rewrite the university name to confirm the delete.",
+    "deleteShortName":"University Short Name *",
+
+    "verifDel":"Verify Training Name",
+    "nomOblig":"The field 'Training name' is required",
+    "dureeOblig":"The field 'Training Duration' is required",
+    "descOblig":"The field 'Training Description' is required",
+    "deviseOblig":"the field 'Currency' is required",
+
+    "add_cv": "Add your CV",
+    "add_passport": "Add your passport",
+    "add_diploma": "Add your diploma",
+    "add_motivation_letter": "Add your motivation letter",
+    "add_transcript": "Add your transcript"
+
+
+    }
+  }
+  

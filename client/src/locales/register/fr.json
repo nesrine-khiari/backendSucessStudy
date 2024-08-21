@@ -1,0 +1,18 @@
+{
+    "register":{
+        "title":"Inscription",
+        "desc":"Remplissez vos informations d'identification et cliquez sur le bouton \"Inscription\".",
+        "profile":"Profil",
+        "lastName":"Prénom",
+        "firstName":"Nom de famille",
+        "email":"Adresse e-mail",
+        "num":"Numéro de téléphone",
+        "country":"Pays",
+        "pwd":"Mot de passe",
+        "pwdOld":"Entrez votre ancien mot de passs",
+        "pwdNew":"Entrez votre nouveau mot de passe",
+        "devise":"devise",
+        
+       "uniName":"Nom de Faculté","student":"Etudiant","uni":"Université","uniCountry":"Pays de Faculté","chose":"Choisir votre pays","numUni":"Numéro de téléphone de l'université","alreadyAccount":"Vous avez déjà un compte ?","sign":"Se connecter","button":"s'inscrire"
+    }   
+}

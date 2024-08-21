@@ -1,0 +1,13 @@
+{
+    "login": {
+      "email": "Email Address",
+      "pwd": "Password",
+      "register": "Don't have an account?",
+      "sign": "Register",
+      "titleemail":"Recover your password now",
+      "recover":"Recover",
+      "oublied":"Forgot your password ?", 
+        "here":"Click here.",
+        "button":"Sign In"
+    }
+  }

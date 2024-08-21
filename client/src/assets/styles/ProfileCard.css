@@ -1,0 +1,26 @@
+.profile_card_container {
+  background: #ffffff;
+  box-shadow: 0px 0px 76px -29px rgba(0, 0, 0, 0.11);
+  border-radius: 8px !important;
+}
+
+.name_styling {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+
+  color: #023047;
+}
+
+.card_btn_styling {
+  background: #ffb703;
+  border-radius: 12px;
+  color: white;
+  padding: 2% 5% !important;
+  min-height: 35px;
+}
+
+.btn_card_container {
+  padding: 1.5% 15%;
+}

@@ -1,0 +1,16 @@
+{
+    "header":{
+        "dashboard": "Dashboard",
+        "about": "About",
+        "contact": "Contact",
+        "services": "Services",
+        "faq": "FAQ",
+        "settings": "Settings",
+        "university": "University",
+        "logout": "Logout",
+        "signup": "Sign Up",
+        "login": "Login",
+        "des":"Our destination",
+        "no_notifications": "You have not received any notifications yet."
+    }  
+}

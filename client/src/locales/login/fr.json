@@ -1,0 +1,15 @@
+{
+    "login":{
+        "email":"Adresse e-mail",
+        "pwd":"Mot de passe",
+        "register":"Vous n'avez pas un compte ?",
+        "sign":"S'inscrire",
+        "titleemail":"Récupérer votre mot de passe",
+        "recover":"Récupérer",
+        "oublied":"Vous avez oublié votre mot de passe ?", 
+        "here":"Cliquez ici",
+        "button":"Se Connecter"
+    }   
+}
+
+  

@@ -1,0 +1,59 @@
+.thead_style {
+  font-style: normal !important;
+  font-weight: 700 !important;
+  font-size: 16px !important;
+  line-height: 150%!important;
+}
+
+.tobody_td {
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-size: 14px !important;
+  line-height: 15px !important;
+  color: #0e243a !important;
+  margin-bottom: 5%;
+}
+
+.pricing_td {
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-size: 12px !important;
+  line-height: 19px !important;
+  color: #ffb703 !important;
+}
+
+.status_text {
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 14px !important;
+  line-height: 15px !important;
+  padding: 10px 20px !important;
+  min-height: 30px;
+  border: 1px solid;
+  border-radius: 8px;
+}
+@media (max-width: 992px) {
+  .status_text {
+    font-style: normal !important;
+    font-weight: 500 !important;
+    font-size: 12px !important;
+    line-height: 15px !important;
+    padding: 8px 15px !important;
+    min-height: 20px;
+    border: 1px solid;
+    border-radius: 8px;
+        overflow-wrap: break-word;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+.main_btn_2 {
+  background: #ffb703 !important;
+  color: white !important;
+  padding: 8px 8px !important;
+  border-radius: 12px;
+  font-size: 12px!important;
+}
+  }
+.empty_table {
+}

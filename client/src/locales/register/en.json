@@ -1,0 +1,25 @@
+{
+    "register": {
+      "title": "Registration",
+      "desc": "Fill in your identification information and click the \"Register\" button.",
+      "profile": "Profile",
+      "lastName": "First Name",
+      "firstName": "Last Name",
+      "email": "Email Address",
+      "num": "Phone Number",
+      "country": "Country",
+      "pwd": "Password",
+      "uniName": "Faculty Name",
+      "student": "Student",
+      "uni": "University",
+      "uniCountry": "Faculty Country",
+      "chose": "Choose your country",
+      "numUni": "University Phone Number",
+      "alreadyAccount": "Already have an account?",
+      "sign": "Sign In",
+      "button":"Sign Up",
+      "pwdOld": "Enter your old password",
+      "pwdNew": "Enter your new password",
+      "devise": "currency"
+    }
+  }

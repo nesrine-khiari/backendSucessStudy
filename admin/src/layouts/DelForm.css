@@ -1,0 +1,135 @@
+.popup-container {
+    width: 400px;
+    /* Adjust width as needed */
+    background-color: #ffffff;
+    /* White background color */
+    border-radius: 10px;
+    /* Adjust border radius as needed */
+    padding: 30px;
+    /* Add padding */
+    font-family: "Arial", sans-serif;
+    /* Set font family */
+    scrollbar-width: thin;
+    /* For Firefox */
+    scrollbar-color: #f4ba41ff transparent;
+}
+
+.Input {
+    border-radius: 5px;
+    height: 40px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border: none;
+    box-shadow: 0 0 3px 0.2px #f4ba41ff;
+    width: 80%;
+    margin-left: 35px;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    /* Set the width of the scrollbar */
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #f4ba41ff;
+    /* Set the color of the scrollbar thumb */
+    border-radius: 4px;
+    /* Optional: Add border radius for rounded corners */
+}
+
+/* For Firefox */
+/* Set the width of the scrollbar */
+/* This property is not yet supported in Safari */
+* {
+    scrollbar-width: thin;
+}
+
+/* Set the color of the scrollbar */
+*::-webkit-scrollbar-thumb {
+    background-color: #f4ba41ff;
+}
+
+.custom-input {
+    border-color: #f4ba41ff !important;
+}
+
+
+.popup-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #023047;
+    display: flex;
+    /* Use flexbox */
+    justify-content: center;
+    /* Center horizontally */
+    align-items: center;
+    /* Center vertically */
+    height: 100%;
+    /* Set height of the header */
+}
+
+.popup-content {
+    margin-bottom: 20px;
+    color: #fff;
+    font-size: 18px;
+}
+
+.popup-footer {
+    display: flex;
+    justify-content: center;
+    /* Center buttons */
+    margin-top: 20px;
+    /* Add margin to top */
+}
+
+
+
+.popup-footer button {
+    border-radius: 8px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: "Arial", sans-serif;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.popup-footer button:first-child {
+    margin-right: 10px;
+    /* Add margin between buttons */
+}
+
+.popup-footer button.p-button-outlined {
+    background-color: transparent;
+    border: 2px solid #f4ba41;
+    /* Yellow border */
+}
+
+.popup-footer button.p-button-outlined:hover {
+    background-color: #f4ba41;
+    /* Yellow background color on hover */
+    color: #fff;
+    /* White text color on hover */
+}
+
+.popup-footer button.p-button-danger {
+    background-color: #f44336;
+    border: 2px solid #f44336;
+}
+
+.popup-footer button.p-button-danger:hover {
+    background-color: #d32f2f;
+    /* Darker red on hover */
+}
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    /* Semi-transparent black overlay */
+    z-index: 999;
+    /* Ensure it's above other content */
+}

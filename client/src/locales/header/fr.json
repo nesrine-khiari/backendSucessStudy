@@ -1,0 +1,18 @@
+{
+    "header":{
+        "dashboard": "Tableau De Bord",
+        "about": "A propos",
+        "contact": "Contact",
+        "services": "Services",
+        "faq": "FAQ",
+        "settings": "Paramètres",
+        "university": "Université",
+        "logout": "Déconnexion",
+        "signup": "Inscription",
+        "login": "Connexion",
+        "des":" Nos destination",
+        "no_notifications": "Vous n'avez pas encore reçu de notifications."
+
+      }
+      
+}
